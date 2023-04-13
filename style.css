@@ -1,0 +1,13 @@
+
+.press{
+    width: 30px;
+    height: 20px;
+    background-color: red;
+    border-radius: 5px;
+ 
+    
+}
+.third{
+    background-color: blueviolet;
+    pointer-events: none;
+}
